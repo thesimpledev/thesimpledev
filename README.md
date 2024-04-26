@@ -1,3 +1,4 @@
+![The Simple Dev Logo](https://cdn.thesimpledev.com/images/The-Simple-Dev-Youtube-Header.webp)
 # StevenDStanton
 ## Software Engineer
 
