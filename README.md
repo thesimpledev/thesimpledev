@@ -57,7 +57,7 @@ My journey began with programming in GW-BASIC on a Tandy 1000, progressing throu
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-phi-sooty-93.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&hide=css,html,yacc,rtf,scss,handlebars&exclude_repo=writing,github-readme-stats,Learning,Twilio-AI,EchoChamberChat,homework-helper,phoneout,twilio-sms-menu,GhostSolo,chat-dice,chat-joke,chat.nodechat.dev,nodechat.dev" alt="Top Langs"/>
+    <img src="https://github-readme-stats-phi-sooty-93.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&hide=css,html,yacc,rtf,scss,handlebars&exclude_repo=writing,github-readme-stats,Learning,thesimpledev.com" alt="Top Langs"/>
   </a>
 </p>
 
