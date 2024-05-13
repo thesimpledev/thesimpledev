@@ -61,5 +61,3 @@ My journey began with programming in GW-BASIC on a Tandy 1000, progressing throu
   </a>
 </p>
 
-
-![Languages Over Time](https://cdn.thesimpledev.com/images/LoT.png)
