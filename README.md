@@ -89,8 +89,8 @@ Tools I know, and enjoy working with.
   </a>
 </p>
 <p align="center">
-  <a href="https://github-readme-stats-git-master-stevendstantons-projects.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&hide=css,html,yacc,rtf,scss,handlebars,powershell&exclude_repo=writing,github-readme-stats,Learning,thesimpledev.com,hugo-geekblog,amazon-transcribe-streaming-dotnet-sdk" target="_new">
-    <img src="https://github-readme-stats-git-master-stevendstantons-projects.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&hide=css,html,yacc,rtf,scss,handlebars,powershell&exclude_repo=writing,github-readme-stats,Learning,thesimpledev.com,hugo-geekblog,amazon-transcribe-streaming-dotnet-sdk" alt="Top Langs"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&hide=css,html,yacc,rtf,scss,handlebars,powershell&exclude_repo=writing,github-readme-stats,Learning,thesimpledev.com,hugo-geekblog,amazon-transcribe-streaming-dotnet-sdk" target="_new">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&hide=css,html,yacc,rtf,scss,handlebars,powershell&exclude_repo=writing,github-readme-stats,Learning,thesimpledev.com,hugo-geekblog,amazon-transcribe-streaming-dotnet-sdk" alt="Top Langs"/>
   </a>
 </p>
 
