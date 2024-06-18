@@ -89,8 +89,8 @@ Tools I know, and enjoy working with.
   </a>
 </p>
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&hide=css,html,yacc,rtf,scss,handlebars,powershell&exclude_repo=writing,github-readme-stats,Learning,thesimpledev.com,hugo-geekblog,nvim,vim-linux" target="_new">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&hide=css,html,yacc,rtf,scss,handlebars,powershell&exclude_repo=writing,github-readme-stats,Learning,thesimpledev.com,hugo-geekblog,nvim,vim-linux" alt="Top Langs"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&hide=css,html,yacc,rtf,scss,handlebars,powershell&exclude_repo=writing,github-readme-stats,Learning,thesimpledev.com,hugo-geekblog,nvim,vim-linux,GameDevTest,Twilio-AI,apocalypsetheory,twilio-sms-menu,chat-dice,chat-joke" target="_new">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&hide=css,html,yacc,rtf,scss,handlebars,powershell&exclude_repo=writing,github-readme-stats,Learning,thesimpledev.com,hugo-geekblog,nvim,vim-linux,GameDevTest,Twilio-AI,apocalypsetheory,twilio-sms-menu,chat-dice,chat-joke" alt="Top Langs"/>
   </a>
 </p>
 
