@@ -89,8 +89,8 @@ Tools I know, and enjoy working with.
   </a>
 </p>
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&hide=css,html,yacc,rtf,scss,handlebars,powershell&exclude_repo=writing,github-readme-stats,Learning,thesimpledev.com,hugo-geekblog,nvim,vim-linux,GameDevTest,Twilio-AI,apocalypsetheory,twilio-sms-menu,chat-dice,chat-joke" target="_new">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&hide=css,html,yacc,rtf,scss,handlebars,powershell&exclude_repo=writing,github-readme-stats,Learning,thesimpledev.com,hugo-geekblog,nvim,vim-linux,GameDevTest,Twilio-AI,apocalypsetheory,twilio-sms-menu,chat-dice,chat-joke" alt="Top Langs"/>
+  <a href="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,ShaderLab,Handlebars,Mathematica,HLSL&exclude_repo=writing,art,Learning,github-readme-stats,thesimpledev.com,writersgrove-net,vim-linux,nvim,GorillaGodsVR" target="_new">
+    <img src="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,ShaderLab,Handlebars,Mathematica,HLSL&exclude_repo=writing,art,Learning,github-readme-stats,thesimpledev.com,writersgrove-net,vim-linux,nvim,GorillaGodsVR" alt="Top Langs"/>
   </a>
 </p>
 
