@@ -50,12 +50,12 @@ Tools I find exciting and fun to work with
 ---
 
 ## Currently Learning
-Tools I am actively learning
+I am actively learning the following
 
 ---
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" title="Zig" alt="Zig" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/odin-lang/Odin/blob/master/misc/logo-slim.png" title="Odin" alt="Odin" height="50"/>&nbsp;
+<!--   <img src="https://github.com/odin-lang/Odin/blob/master/misc/logo-slim.png" title="Odin" alt="Odin" height="50"/>&nbsp; -->
 </p>
 
 ---
