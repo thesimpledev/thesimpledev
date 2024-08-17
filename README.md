@@ -36,7 +36,9 @@ Tools I find exciting and fun to work with
 <!-- Tech Stack Icons -->
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/bigskysoftware/htmx/blob/master/www/static/img/htmx_logo.1.png" title="HTMX" alt="HTMX" width="150" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJS" alt="NestJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="50" height="50"/>&nbsp;
@@ -49,8 +51,8 @@ Tools I find exciting and fun to work with
 
 ---
 
-## Currently Learning
-I am actively learning the following
+## Plan To Learn
+I am plan on learning the following
 
 ---
 <p align="center">
