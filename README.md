@@ -101,8 +101,8 @@ Tools I know, and enjoy working with.
   </a>
 </p>
 <p align="center">
-  <a href="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile&exclude_repo=writing,writing-archived,art,github-readme-stats,thesimpledev.com,vim-linux,nvim,GorillaGodsVR,GameDevTest,apt-old,codingchallanges" target="_new">
-    <img src="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile&exclude_repo=writing,writing-archived,art,github-readme-stats,thesimpledev.com,vim-linux,nvim,GorillaGodsVR,GameDevTest,apt-old,codingchallanges" alt="Top Langs"/>
+  <a href="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile&exclude_repo=writing,writing-archived,art,github-readme-stats,thesimpledev.com,vim-linux,nvim,nvim-old,GorillaGodsVR,GameDevTest,apt-old,codingchallanges" target="_new">
+    <img src="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile&exclude_repo=writing,writing-archived,art,github-readme-stats,thesimpledev.com,vim-linux,nvim,nvim-old,GorillaGodsVR,GameDevTest,apt-old,codingchallanges" alt="Top Langs"/>
   </a>
 </p>
 
