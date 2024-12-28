@@ -49,18 +49,6 @@ Tools I find exciting and fun to work with
   
 </p>
 
----
-
-## Plan To Learn
-I am plan on learning the following
-
----
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" title="Zig" alt="Zig" width="50" height="50"/>&nbsp;
-<!--   <img src="https://github.com/odin-lang/Odin/blob/master/misc/logo-slim.png" title="Odin" alt="Odin" height="50"/>&nbsp; -->
-</p>
-
----
 
 ## Known Tools
 Tools I know, and enjoy working with. 
