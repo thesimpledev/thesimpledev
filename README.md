@@ -32,7 +32,7 @@ My journey began with programming in GW-BASIC on a Tandy 1000, progressing throu
 
 ## Language Learning...
 
-Following the Pragmatic Programmer I have been learning one new language a year since 2023. Some of these languages I plan to use professionally some I am learning just to expand my thinking. Below are the languages I have learned since I started this journey and the year in which I learned them, as well as my plans for the future.
+Following the Pragmatic Programmer I have been learning one new language a year since 2023. Some of these languages I plan to use professionally some I am learning just to expand my thought process. Below are the languages I have learned since I started this journey and the year in which I learned them, as well as my plans for the future.
 
 | Language   | Year Learned      |
 |------------|-------------------|
