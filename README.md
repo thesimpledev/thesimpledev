@@ -30,27 +30,6 @@ My journey began with programming in GW-BASIC on a Tandy 1000, progressing throu
   </a>
 </p>
 
-## Language Learning...
-
-Following the Pragmatic Programmer I have been learning one new language a year since 2023. Some of these languages I plan to use professionally some I am learning just to expand my thought process. Below are the languages I have learned since I started this journey and the year in which I learned them, as well as my plans for the future.
-
-| Language   | Year Learned      |
-|------------|-------------------|
-| GW Basic   | 1990              |
-| PHP        | 2000              |
-| Java       | 2005              |
-| Perl       | 2007              |
-| C++        | 2009              |
-| Node       | 2013              |
-| TypeScript | 2020              |
-| C#         | 2023              |
-| Go         | 2024              |
-| Rust       | 2025 (In Progess) |
-| Elixir     | 2026              |
-| Zig        | 2027              |
-| Clojure    | 2028              |
-
-
 ## Favorite Tools
 These are the tools I love working with and find exciting to use.
 
@@ -74,11 +53,13 @@ These are the tools I love working with and find exciting to use.
 
 
 <!-- GitHub Stats -->
+<!--
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=StevenDStanton&theme=dark&background=000000" alt="GitHub Streak"/>
   </a>
 </p>
+-->
 <p align="center">
   <a href="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile&exclude_repo=writing,writing-archived,art,github-readme-stats,thesimpledev.com,vim-linux,nvim,nvim-old,GorillaGodsVR,GameDevTest,apt-old,codingchallanges" target="_new">
     <img src="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile&exclude_repo=writing,writing-archived,art,github-readme-stats,thesimpledev.com,vim-linux,nvim,nvim-old,GorillaGodsVR,GameDevTest,apt-old,codingchallanges" alt="Top Langs"/>
