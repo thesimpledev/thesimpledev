@@ -61,8 +61,8 @@ These are the tools I love working with and find exciting to use.
 </p>
 -->
 <p align="center">
-  <a href="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile&exclude_repo=writing,writing-archived,art,github-readme-stats,thesimpledev.com,vim-linux,nvim,nvim-old,GorillaGodsVR,GameDevTest,apt-old,codingchallanges,cs-intro,chatnet" target="_new">
-    <img src="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile&exclude_repo=writing,writing-archived,art,github-readme-stats,thesimpledev.com,vim-linux,nvim,nvim-old,GorillaGodsVR,GameDevTest,apt-old,codingchallanges,cs-intro,chatnet" alt="Top Langs"/>
+  <a href="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile,EJS&exclude_repo=writing,writing-archived,art,github-readme-stats,thesimpledev.com,vim-linux,nvim,nvim-old,GorillaGodsVR,GameDevTest,apt-old,codingchallanges,cs-intro,chatnet" target="_new">
+    <img src="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile,EJS&exclude_repo=writing,writing-archived,art,github-readme-stats,thesimpledev.com,vim-linux,nvim,nvim-old,GorillaGodsVR,GameDevTest,apt-old,codingchallanges,cs-intro,chatnet" alt="Top Langs"/>
   </a>
 </p>
 
