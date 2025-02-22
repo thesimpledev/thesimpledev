@@ -53,13 +53,11 @@ These are the tools I love working with and find exciting to use.
 
 
 <!-- GitHub Stats -->
-<!--
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=StevenDStanton&theme=dark&background=000000" alt="GitHub Streak"/>
   </a>
 </p>
--->
 <p align="center">
   <a href="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile,EJS,Vue,Less,Dockerfile,Rich%20Text%20Format,Shell,GDScript&exclude_repo=writing,writing-archived,art,github-readme-stats,thesimpledev.com,vim-linux,nvim,nvim-old,GorillaGodsVR,GameDevTest,apt-old,codingchallanges,cs-intro,chatnet" target="_new">
     <img src="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile,EJS,Vue,Less,Dockerfile,Rich%20Text%20Format,Shell,GDScript&exclude_repo=writing,writing-archived,art,github-readme-stats,thesimpledev.com,vim-linux,nvim,nvim-old,GorillaGodsVR,GameDevTest,apt-old,codingchallanges,cs-intro,chatnet" alt="Top Langs"/>
