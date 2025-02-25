@@ -60,10 +60,8 @@ These are the tools I love working with and find exciting to use.
 </p>
 <p align="center">
   <a href="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10" target="_new">
-    <img src="hhttps://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10" alt="Top Langs"/>
+    <img src="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10" alt="Top Langs"/>
   </a>
-  <br />
-  The list is heavily filtered since I keep a lot of stuff not related to code and code I have written.  <a href="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=25" target="_BLANK">Click here to see the unfiltered list.</a>
 </p>
 
 
