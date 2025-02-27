@@ -59,8 +59,8 @@ These are the tools I love working with and find exciting to use.
   </a>
 </p>
 <p align="center">
-  <a href="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,Less,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile,EJS,Vue,,Dockerfile,Rich%20Text%20Format,Shell,GDScript&exclude_repo=github-readme-stats,thesimpledev.com,flipsio-website,writersgrove-comingsoon,thestarkopinion-com,pixelsnotincluded,criticalthought-online,thestarkopinion.dev,learning" target="_new">
-    <img src="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,Less,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile,EJS,Vue,,Dockerfile,Rich%20Text%20Format,Shell,GDScript&exclude_repo=github-readme-stats,thesimpledev.com,flipsio-website,writersgrove-comingsoon,thestarkopinion-com,pixelsnotincluded,criticalthought-online,thestarkopinion.dev,learning" alt="Top Langs"/>
+  <a href="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,Less,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile,EJS,Vue,,Dockerfile,Rich%20Text%20Format,Shell,GDScript&exclude_repo=github-readme-stats,thesimpledev.com,flipsio-website,writersgrove-comingsoon,thestarkopinion-com,pixelsnotincluded,criticalthought-online,thestarkopinion.dev" target="_new">
+    <img src="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,Less,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile,EJS,Vue,,Dockerfile,Rich%20Text%20Format,Shell,GDScript&exclude_repo=github-readme-stats,thesimpledev.com,flipsio-website,writersgrove-comingsoon,thestarkopinion-com,pixelsnotincluded,criticalthought-online,thestarkopinion.dev" alt="Top Langs"/>
   </a>
 </p>
 
