@@ -1,7 +1,7 @@
 [![The Simple Dev Logo](https://cdn.thesimpledev.com/images/The-Simple-Dev-Youtube-Header.webp)](https://thesimpledev.com)
 
 # StevenDStanton
-## Software Engineer
+## Software Engineer - Principal Engineer at Dailystream.com
 
 I am Steven, a fortysomething husband, father of 2 monsters… I mean lovely children, occasional author, technophile, and software engineer with nearly 2 decades of experience.
 
