@@ -55,12 +55,12 @@ These are the tools I love working with and find exciting to use.
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=StevenDStanton&theme=dark&background=000000" alt="GitHub Streak"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=thesimpledev&theme=dark&background=000000" alt="GitHub Streak"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,Less,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile,EJS,Vue,,Dockerfile,Rich%20Text%20Format,Shell,GDScript&exclude_repo=github-readme-stats,thesimpledev.com,flipsio-website,writersgrove-comingsoon,thestarkopinion-com,pixelsnotincluded,criticalthought-online,thestarkopinion.dev,writersgrove-app" target="_new">
-    <img src="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=StevenDStanton&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,Less,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile,EJS,Vue,,Dockerfile,Rich%20Text%20Format,Shell,GDScript&exclude_repo=github-readme-stats,thesimpledev.com,flipsio-website,writersgrove-comingsoon,thestarkopinion-com,pixelsnotincluded,criticalthought-online,thestarkopinion.dev,writersgrove-app" alt="Top Langs"/>
+  <a href="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=thesimpledev&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,Less,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile,EJS,Vue,,Dockerfile,Rich%20Text%20Format,Shell,GDScript&exclude_repo=github-readme-stats,thesimpledev.com,flipsio-website,writersgrove-comingsoon,thestarkopinion-com,pixelsnotincluded,criticalthought-online,thestarkopinion.dev,writersgrove-app" target="_new">
+    <img src="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=thesimpledev&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,Less,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile,EJS,Vue,,Dockerfile,Rich%20Text%20Format,Shell,GDScript&exclude_repo=github-readme-stats,thesimpledev.com,flipsio-website,writersgrove-comingsoon,thestarkopinion-com,pixelsnotincluded,criticalthought-online,thestarkopinion.dev,writersgrove-app" alt="Top Langs"/>
   </a>
 </p>
 
