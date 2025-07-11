@@ -13,7 +13,7 @@ My journey began with programming in GW-BASIC on a Tandy 1000, progressing throu
 
 Over the years, my journey has led me back to the basics. I'm no longer chasing the newest or shiniest languages. These days, I value simplicity and reliability far more than abstract ideologies, and Go has become my language of choice.
 
-One final note: all the projects listed here are personal efforts I work on when time allows. Between being a father, husband, Principal Engineer, and having plenty of other interests, some projects may sit incomplete for a while. I hope to return to them eventually, but no promises.
+One final note: all the projects listed here are personal projects I work on when time allows. Between being a father, husband, Principal Engineer, and having plenty of other interests, some projects may sit incomplete for a while. I hope to return to them eventually, but no promises.
 
 > "Simplicity is prerequisite for reliability."  
 > \- Edsger Dijkstra 
