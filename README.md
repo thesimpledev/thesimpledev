@@ -1,7 +1,12 @@
 [![The Simple Dev Logo](https://cdn.thesimpledev.com/images/The-Simple-Dev-Youtube-Header.webp)](https://thesimpledev.com)
 
-# StevenDStanton
 ## Software Engineer - Principal Engineer at Dailystream.com
+### Principal Software Engineer | AI-Driven Real-Time Communication Systems & Cloud Architecture
+
+## AI Enhanced, Not AI Produced
+I believe in using AI to __enhance__ my abilities, not __replace__ them. AI plays a role in my workflow for __brainstorming__, __high-level discussions__, __boilerplate code__, __testing__, __documentation__, and __code reviews__. I still read and verify every single line of code, function, test, and document that is pushed. At the end of the day it is my responsibility to ensure I understand my code, and to ensure it does what it is suppose to do.
+
+---
 
 I am Steven, a fortysomething husband, father of 2 monsters… I mean lovely children, occasional author, technophile, and software engineer with nearly 2 decades of experience.
 
@@ -16,7 +21,9 @@ Over the years, my journey has led me back to the basics. I'm no longer chasing 
 One final note: all the projects listed here are personal projects I work on when time allows. Between being a father, husband, Principal Engineer, and having plenty of other interests, some projects may sit incomplete for a while. I hope to return to them eventually, but no promises.
 
 > "Simplicity is prerequisite for reliability."  
-> \- Edsger Dijkstra 
+> \- Edsger Dijkstra
+
+
 
 <!-- Social Badges -->
 <p align="center">
