@@ -1,7 +1,7 @@
 [![The Simple Dev Logo](https://cdn.thesimpledev.com/images/The-Simple-Dev-Youtube-Header.webp)](https://thesimpledev.com)
 
-## Software Engineer - Principal Engineer at Dailystream.com
-### Principal Software Engineer | AI-Driven Real-Time Communication Systems & Cloud Architecture
+## Principal Engineer at Dailystream.com
+### AI-Driven Real-Time Communication Systems & Cloud Architecture
 Building secure, real-time communication systems where simplicity meets reliability.
 
 ## AI Enhanced, Not AI Produced
