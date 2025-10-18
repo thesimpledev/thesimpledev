@@ -9,17 +9,10 @@ I believe in using AI to __enhance__ my abilities, not __replace__ them. AI play
 
 ---
 
-I am Steven, a fortysomething husband, father of 2 monsters… I mean lovely children, occasional author, technophile, and software engineer with nearly 2 decades of experience.
+I’m Steven: husband, father of two, author, and technophile with nearly two decades of experience.
+I specialize in security-focused, real-time systems built with Go, Twilio, AWS, and OpenAI, among others.
 
-I love building security focused real time communication systems. I have extensive experience working with Twilio, AWS, OpenAI, Stripe and many other systems. 
-
-My interests span beyond the world of software engineering. I’m an avid gamer, reader, writer, and enthusiast of astronomy, photography, and drawing, just to scratch the surface.
-
-My journey began with programming in GW-BASIC on a Tandy 1000, progressing through C++ in high school, to an early career embracing web development technologies such as PHP, HTML, CSS, and JavaScript.
-
-Over the years, my journey has led me back to the basics. I'm no longer chasing the newest or shiniest languages. These days, I value simplicity and reliability far more than abstract ideologies, and Go has become my language of choice.
-
-One final note: all the projects listed here are personal projects I work on when time allows. Between being a father, husband, Principal Engineer, and having plenty of other interests, some projects may sit incomplete for a while. I hope to return to them eventually, but no promises.
+Outside of engineering, I’m an avid gamer, reader, and writer who enjoys astronomy and photography. My roots go back to GW-BASIC on a Tandy 1000, through C++ and PHP, to modern Go systems that favor clarity over complexity.
 
 > "Simplicity is prerequisite for reliability."  
 > \- Edsger Dijkstra
