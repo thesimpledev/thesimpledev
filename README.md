@@ -57,18 +57,18 @@ These are the tools I love working with and find exciting to use.
 </p>
 
 
-
 <!-- GitHub Stats -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=thesimpledev&theme=dark&background=000000" alt="GitHub Streak"/>
+  <b>Generated with <a href="https://github.com/thesimpledev/gitdisplay">gitdisplay</a>, developed by <a href="https://thesimpledev.com">TheSimpleDev</a></b>
+</p>
+<p align="center">
+  <a href="https://codestats.thesimpledev.com/streak.svg" target="_new">
+    <img src="https://codestats.thesimpledev.com/streak.svg" alt="GitHub Streak"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=thesimpledev&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,Less,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile,EJS,Vue,,Dockerfile,Rich%20Text%20Format,Shell,GDScript,HCL,Just&exclude_repo=github-readme-stats,thesimpledev.com,flipsio-websi
-  te,stackedit,thestarkopinion-com,pixelsnotincluded,criticalthought-online,thestarkopinion.dev,writersgrove-app,writersgrove,dealer,XplaneFlightData,azuredatastudio" target="_new">
-    <img src="https://github-readme-stats-ashen-six-86.vercel.app/api/top-langs/?username=thesimpledev&theme=vision-friendly-dark&langs_count=10&hide=html,css,scss,Less,ShaderLab,Handlebars,Mathematica,HLSL,PowerShell,Makefile,EJS,Vue,,Dockerfile,Rich%20Text%20Format,Shell,GDScript,HCL,Just&exclude_repo=github-readme-stats,thesimpledev.com,flipsio-websi%20%20te,stackedit,thestarkopinion-com,pixelsnotincluded,criticalthought-online,thestarkopinion.dev,writersgrove-app,writersgrove,dealer,XplaneFlightData,azuredatastudio"/>
+  <a href="https://codestats.thesimpledev.com/top-langs.svg" target="_new">
+    <img src="https://codestats.thesimpledev.com/top-langs.svg" alt="Most Used Languages"/>
   </a>
 </p>
-
 
