@@ -62,13 +62,12 @@ These are the tools I love working with and find exciting to use.
   <b>Generated with <a href="https://github.com/thesimpledev/gitdisplay">gitdisplay</a>, developed by <a href="https://thesimpledev.com">TheSimpleDev</a></b>
 </p>
 <p align="center">
-  <a href="https://codestats.thesimpledev.com/streak.svg" target="_new">
-    <img src="https://codestats.thesimpledev.com/streak.svg" alt="GitHub Streak"/>
+  <a href="https://cdn.thesimpledev.com/cards/streak.svg" target="_new">
+    <img src="https://cdn.thesimpledev.com/cards/streak.svg" alt="GitHub Streak"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://codestats.thesimpledev.com/top-langs.svg" target="_new">
-    <img src="https://codestats.thesimpledev.com/top-langs.svg" alt="Most Used Languages"/>
+  <a href="https://cdn.thesimpledev.com/cards/top-langs.svg" target="_new">
+    <img src="https://cdn.thesimpledev.com/cards/top-langs.svg" alt="Most Used Languages"/>
   </a>
 </p>
-
