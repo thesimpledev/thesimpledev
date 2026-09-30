@@ -7,8 +7,8 @@ Full-stack engineer with 20+ years building real-time communication systems. Sol
 Crafting clean, concise code - because simplicity in development breeds clarity, efficiency, and quality.
 Building secure, real-time communication systems where simplicity meets reliability.
 
-## AI Enhanced, Not AI Produced
-I believe in using AI to __enhance__ my abilities, not __replace__ them. AI plays a role in my workflow for __brainstorming__, __high-level discussions__, __boilerplate code__, __testing__, __documentation__, and __code reviews__. I still read and verify every single line of code, function, test, and document that is pushed. At the end of the day it is my responsibility to ensure I understand my code, and to ensure it does what it is supposed to do.
+## AI Enhanced, Reviewed Line by Line
+AI writes 80 to 90% of my code. I review every line for structure and security and make sure the tests are correct, because I am accountable for what ships. Go suits this way of working: a standard syntax, a strong standard library, built-in testing and fuzzing, static typing, and code that is easy to read and therefore easy to review.
 
 ---
 
