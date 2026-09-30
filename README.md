@@ -2,7 +2,7 @@
 
 ## Principal Software Engineer at DailyStream.com
 ### Full-Stack, Backend-Focused | Go · TypeScript · AWS · Real-Time Systems
-Full-stack engineer with 20+ years building real-time communication systems. Sole technical owner at DailyStream (Go, TypeScript, AWS), serving 100M+ monthly requests alongside self-hosted GPU inference, keeping customer and company data off third-party AI services. AI writes 80 to 90% of my code; I review every line and am accountable for every line that ships. Named inventor on US Patent 12,282,881.
+Full-stack engineer with 20+ years building real-time communication systems. Sole technical owner at DailyStream (Go, TypeScript, AWS), serving 100M+ monthly requests alongside self-hosted GPU inference, keeping customer and company data off third-party AI services. AI writes 80 to 90% of my code; I review every line and am accountable for every line that ships. Named inventor on [US Patent 12,282,881](https://patents.google.com/patent/US12282881B1).
 
 Crafting clean, concise code - because simplicity in development breeds clarity, efficiency, and quality.
 Building secure, real-time communication systems where simplicity meets reliability.
