@@ -8,18 +8,13 @@ Crafting clean, concise code - because simplicity in development breeds clarity,
 Building secure, real-time communication systems where simplicity meets reliability.
 
 ## AI Enhanced, Reviewed Line by Line
-AI writes 80 to 90% of my code. I review every line for structure and security and make sure the tests are correct, because I am accountable for what ships. Go suits this way of working: a standard syntax, a strong standard library, built-in testing and fuzzing, static typing, and code that is easy to read and therefore easy to review.
+Most of my code is AI-written; none of it ships unreviewed. Every line gets checked for structure and security, and the tests get checked for correctness, because I am accountable for what ships. Go suits this way of working: a standard syntax, a strong standard library, built-in testing and fuzzing, static typing, and code that is easy to read and therefore easy to review.
 
 ---
 
 I’m Steven: husband, father of two, author, and technophile.
 
 Outside of engineering, I’m an avid gamer, reader, and writer who enjoys astronomy and photography. My roots go back to GW-BASIC on a Tandy 1000, through C++ and PHP, to modern Go systems that favor clarity over complexity.
-
-> "Simplicity is prerequisite for reliability."  
-> \- Edsger Dijkstra
-
-
 
 <!-- Social Badges -->
 <p align="center">
