@@ -1,7 +1,9 @@
 [![The Simple Dev Logo](https://cdn.thesimpledev.com/images/The-Simple-Dev-Youtube-Header.webp)](https://thesimpledev.com)
 
-## Principal Engineer at Dailystream.com
-### AI-Enhanced Real-Time Communication Systems & Cloud Architecture
+## Principal Software Engineer at DailyStream.com
+### Full-Stack, Backend-Focused | Go · TypeScript · AWS · Real-Time Systems
+Full-stack engineer with 20+ years building real-time communication systems. Sole technical owner at DailyStream (Go, TypeScript, AWS), serving 100M+ monthly requests alongside self-hosted GPU inference, keeping customer and company data off third-party AI services. AI writes 80 to 90% of my code; I review every line and am accountable for every line that ships. Named inventor on US Patent 12,282,881.
+
 Crafting clean, concise code - because simplicity in development breeds clarity, efficiency, and quality.
 Building secure, real-time communication systems where simplicity meets reliability.
 
@@ -10,7 +12,7 @@ I believe in using AI to __enhance__ my abilities, not __replace__ them. AI play
 
 ---
 
-I’m Steven: husband, father of two, author, and technophile. Full-stack engineer with 20+ years building real-time communication systems. Sole technical owner at DailyStream (Go, TypeScript, AWS), serving 100M+ monthly requests alongside self-hosted GPU inference, keeping customer and company data off third-party AI services. AI writes 80 to 90% of my code; I review every line and am accountable for every line that ships. Named inventor on US Patent 12,282,881.
+I’m Steven: husband, father of two, author, and technophile.
 
 Outside of engineering, I’m an avid gamer, reader, and writer who enjoys astronomy and photography. My roots go back to GW-BASIC on a Tandy 1000, through C++ and PHP, to modern Go systems that favor clarity over complexity.
 
